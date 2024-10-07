@@ -13,3 +13,9 @@ The requirements given are:
 * Task list page must be visually appealing and functional on desktop and mobile devices
 
 This project was initially set up using the CodeSwing VSCode extension.
+
+## Brand Guidelines
+
+* Fonts: sans-serif
+* Colors: #0F62FE for main elements, #BAE6FF for contrasting elements, #FFFFFF for white elements
+* Borders: must be rounded on all elements
